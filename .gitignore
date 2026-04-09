@@ -1,0 +1,14 @@
+# Ignore React dependencies (Massive folder!)
+node_modules/
+
+# Ignore .NET build folders
+bin/
+obj/
+
+# Ignore environment variables
+.env
+.env.local
+
+# Ignore standard computer junk
+.DS_Store
+Thumbs.db
